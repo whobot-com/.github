@@ -2,80 +2,73 @@
 
 # WhoBot 呼波特
 
-**顶级AI电话数字员工，像真人一样帮企业接打电话**
+**AI 电话数字员工平台 · 像真人一样帮企业接打电话**
 
-[![官网](https://img.shields.io/badge/官网-whobot.com-0066ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.whobot.com)
-[![A轮融资](https://img.shields.io/badge/A轮-金沙江创投-00c853?style=for-the-badge&logo=cashapp&logoColor=white)](https://www.whobot.com)
-[![客户数](https://img.shields.io/badge/300%2B-企业客户-ff6d00?style=for-the-badge&logo=handshake&logoColor=white)](https://www.whobot.com)
+[![官网](https://img.shields.io/badge/官网-whobot.com-2f6bff?style=for-the-badge)](https://www.whobot.com)
+[![管理平台](https://img.shields.io/badge/管理平台-work.whobot.com-0f8a4b?style=for-the-badge)](https://work.whobot.com/)
+[![Agent Skill](https://img.shields.io/badge/Agent_Skill-文档-111827?style=for-the-badge)](https://whobot-com.github.io/openclaw-whobot-skill/)
 
----
-
-*98% 的通话对象分不清电话那头是真人还是 AI。*
+[简体中文](#我们做什么) · [English](#english)
 
 </div>
 
 ## 我们做什么
 
-WhoBot（呼波特）是一个 **AI 电话数字员工平台**，让企业拥有像真人一样能接、能打电话的 AI 员工。
+呼波特（WhoBot）为企业打造会接打真实电话的 **AI 电话数字员工**：用大模型、自研模型和自研语音系统，承接客户回访、到店 / 试听 / 看房邀约、通知提醒、线索筛选与加微、电话销售、热线接听和满意度回访。
 
-我们的核心不是"语音机器人"，而是真正的 **拟人化** 和 **拟角色** 能力 — 让每一通电话都有温度、有节奏、有判断力。
+| 指标 | 官网公开信息 |
+|---|---|
+| 企业客户 | 300+ 家，中大客户续约率 100% |
+| 累计通话 | 3 亿+ 通 |
+| 覆盖行业 | 30+ 个，行业知识资产 1000+ 项 |
+| 端到端响应 | 低于 500ms，7×24×365 服务 |
+| 拟人程度 | 约 85% 的通话对象会把数字员工误认为真人 |
 
-> 成本降低 10 倍。中大型客户续费率 100%。
-> 这不是 slogan，是交付出来的数字。
+## 🤖 在你的 AI 助手里用呼波特
 
-## 两大核心能力
+把这句话发给 WorkBuddy、Claude Code、Codex、OpenClaw、Cursor 等 AI Agent，就能装上呼波特电话 Skill：
 
-### 🎭 拟人化引擎
+```text
+请帮我安装呼波特的电话 Skill https://github.com/whobot-com/openclaw-whobot-skill
+```
 
-不是冷冰冰的语音菜单，而是真实的对话体验：
+装好后说“呼波特能做什么”。用自然语言即可 **找标杆员工 → 网页 / 电话体验 → 用录音或资料创建员工 → 调优话术 → 上传线索外呼**，涉及费用和真实拨打的操作都会先确认。
 
-- **自然停顿** — 像人一样思考，不抢话
-- **语气词 & 情绪感知** — 嗯、对、好的…… 每个细节都像真人
-- **主动引导** — 读懂客户没说出口的需求，推动对话走向成交
-- **端到端自研** — 专为中文电话场景打造，延迟 < 500ms
+| 入口 | 地址 |
+|---|---|
+| 📖 使用文档（各平台接入） | [whobot-com.github.io/openclaw-whobot-skill](https://whobot-com.github.io/openclaw-whobot-skill/) |
+| 🧩 Skill 源码 | [whobot-ai/skills](https://github.com/whobot-ai/skills/tree/main/skills/whobot-phonecall-skill) · [openclaw-whobot-skill](https://github.com/whobot-com/openclaw-whobot-skill) |
+| 🦞 ClawHub / OpenClaw | [clawhub.ai/whobot/whobot-phonecall-skill](https://clawhub.ai/whobot/whobot-phonecall-skill) |
+| 🔮 ModelScope 魔搭 | [modelscope.cn/skills/WhoBot/whobot-phonecall-skill](https://modelscope.cn/skills/WhoBot/whobot-phonecall-skill) |
+| 📦 skills.sh | [skills.sh/whobot-ai/skills/whobot-phonecall-skill](https://www.skills.sh/whobot-ai/skills/whobot-phonecall-skill) |
+| 🐋 DeepSeek Harness 插件 | [@whobot/dsh-agent-whobot](https://www.npmjs.com/package/@whobot/dsh-agent-whobot) |
+| 🧠 给大模型读 | [llms.txt](https://github.com/whobot-com/llms.txt) |
 
-### 🧬 拟角色飞轮
+## 核心能力
 
-每一通电话都在让下一通更好：
-
-- **30+ 行业深耕** — 医疗、汽车、餐饮、教育、通信、零售、家装……
-- **1000+ 行业知识沉淀** — AI 不只是会说话，更懂你的行业
-- **数据飞轮驱动** — 持续学习，持续进化，越用越强
-
-## 能做什么
-
-| 场景 | 一句话 |
-|------|--------|
-| **意向挖掘** | 在自然对话中读懂客户真实需求 |
-| **线索加微** | 电话到微信，95% 转化率 |
-| **产品销售** | 处理异议、引导成交，AI 也能当销冠 |
-| **热线接待** | 7×24 智能接听，不漏接、不排队、不下班 |
-| **服务沟通** | 回访、预约、调查，售后做成复购入口 |
-
-## 技术实力
-
-- **自研语音系统** — 专为中文电话场景而生，长对话保持率提升 300%
-- **边说边做实时 OS** — 对话还在继续，工单已在生成，微信已在添加
-- **跨系统闭环** — 说到即做到，CRM/微信/工单无缝衔接
-
-## 覆盖行业
-
-`医疗` · `汽车` · `餐饮连锁` · `教育` · `通信 & BPO` · `零售` · `家装` · `30+ 行业`
+- **拟人化对话**：自然停顿、语气词、打断处理、主动引导，专为中文电话场景打造。
+- **边说边做**：通话中实时查询记录、创建订单、更新 CRM、添加企业微信。
+- **行业沉淀**：医疗、汽车、餐饮连锁、教育、通信与 BPO、零售、家装等 30+ 行业的标杆数字员工。
+- **公开案例**：教育行业线索加微转化率 95%（人工对照 87%）。
 
 ## 关于我们
 
-2023 · 北京 · 金沙江创投 A 轮
+北京呼波特人工智能科技有限公司 · 2023 年成立 · 北京 · 金沙江创投领投 A 轮
 
-北京呼波特人工智能科技有限公司
+等保三级 · 京ICP备2025110070号 · 增值电信业务经营许可证 京B2-20260448
 
-我们相信：技术的终极形态，是让人感受不到技术的存在。
-
-**合规**：等保三级 · ICP 京ICP备2025110070号 · 京B2-20260448
+公众号「WhobotAI电话数字员工」 · 视频号「WhobotAI电话员工」 · 小红书「呼波特AI电话数字员工」
 
 ---
 
-<div align="center">
+## English
 
-**[预约演示 →](https://www.whobot.com)**
+**WhoBot (呼波特)** builds AI phone digital employees (voice agents) that place and answer real calls for businesses: follow-ups, store / trial / viewing invitations, reminders, lead qualification, telesales, hotline support and satisfaction surveys. 300+ enterprise customers, 300M+ calls, 30+ industries.
 
-</div>
+Use WhoBot from your AI agent — send this to WorkBuddy, Claude Code, Codex, OpenClaw or Cursor:
+
+```text
+Please install the WhoBot phone skill: https://github.com/whobot-com/openclaw-whobot-skill
+```
+
+Docs: [whobot-com.github.io/openclaw-whobot-skill](https://whobot-com.github.io/openclaw-whobot-skill/) · Website: [whobot.com](https://www.whobot.com)
