@@ -6,7 +6,7 @@
 
 [![官网](https://img.shields.io/badge/官网-whobot.com-2f6bff?style=for-the-badge)](https://www.whobot.com)
 [![管理平台](https://img.shields.io/badge/管理平台-work.whobot.com-0f8a4b?style=for-the-badge)](https://work.whobot.com/)
-[![Agent Skill](https://img.shields.io/badge/Agent_Skill-文档-111827?style=for-the-badge)](https://whobot-com.github.io/openclaw-whobot-skill/)
+[![Agent Skill](https://img.shields.io/badge/Agent_Skill-文档-111827?style=for-the-badge)](https://www.whobot.com/skills/docs/)
 
 [简体中文](#我们做什么) · [English](#english)
 
@@ -39,7 +39,7 @@
 
 | 入口 | 地址 |
 |---|---|
-| 📖 使用文档（各平台接入） | [whobot-com.github.io/openclaw-whobot-skill](https://whobot-com.github.io/openclaw-whobot-skill/) |
+| 📖 使用文档（各平台接入） | [www.whobot.com/skills/docs](https://www.whobot.com/skills/docs/) |
 | 🧩 Skill 源码 | [whobot-ai/skills](https://github.com/whobot-ai/skills/tree/main/skills/whobot-phonecall-skill) · [openclaw-whobot-skill](https://github.com/whobot-com/openclaw-whobot-skill) |
 | 🦞 ClawHub / OpenClaw | [clawhub.ai/whobot/whobot-phonecall-skill](https://clawhub.ai/whobot/whobot-phonecall-skill) |
 | 🔮 ModelScope 魔搭 | [modelscope.cn/skills/WhoBot/whobot-phonecall-skill](https://modelscope.cn/skills/WhoBot/whobot-phonecall-skill) |
@@ -67,7 +67,7 @@
 
 ## English
 
-**WhoBot (呼波特)** builds AI phone digital employees (voice agents) that place and answer real calls for businesses: follow-ups, store / trial / viewing invitations, reminders, lead qualification, telesales, hotline support and satisfaction surveys. 300+ enterprise customers, 300M+ calls, 30+ industries.
+**WhoBot (呼波特)** builds AI phone digital employees (voice agents) that place and answer real calls for businesses: follow-ups, store / trial / viewing invitations, reminders, lead qualification, telesales, hotline support and satisfaction surveys. 1,730+ enterprise customers, 740M+ calls, 30+ industries (as of 2026-08-31).
 
 Use WhoBot from your AI agent — send this to WorkBuddy, Claude Code, Codex, OpenClaw or Cursor:
 
@@ -75,4 +75,4 @@ Use WhoBot from your AI agent — send this to WorkBuddy, Claude Code, Codex, Op
 Please install the WhoBot phone skill: https://github.com/whobot-com/openclaw-whobot-skill
 ```
 
-Docs: [whobot-com.github.io/openclaw-whobot-skill](https://whobot-com.github.io/openclaw-whobot-skill/) · Website: [whobot.com](https://www.whobot.com)
+Docs: [www.whobot.com/skills/docs](https://www.whobot.com/skills/docs/) · Website: [whobot.com](https://www.whobot.com)
