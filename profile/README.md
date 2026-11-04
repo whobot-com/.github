@@ -16,13 +16,16 @@
 
 呼波特（WhoBot）为企业打造会接打真实电话的 **AI 电话数字员工**：用大模型、自研模型和自研语音系统，承接客户回访、到店 / 试听 / 看房邀约、通知提醒、线索筛选与加微、电话销售、热线接听和满意度回访。
 
-| 指标 | 官网公开信息 |
+| 指标 | 官网披露值（截至 2026-08-31） |
 |---|---|
-| 企业客户 | 300+ 家，中大客户续约率 100% |
-| 累计通话 | 3 亿+ 通 |
-| 覆盖行业 | 30+ 个，行业知识资产 1000+ 项 |
-| 端到端响应 | 低于 500ms，7×24×365 服务 |
-| 拟人程度 | 约 85% 的通话对象会把数字员工误认为真人 |
+| 服务企业 | 1730+ 家 |
+| 累计通话 | 7.4 亿+ 通 |
+| 覆盖行业 | 30+ 个 |
+| 中大客户续费率 | 100% |
+
+来源：[官网首页](https://www.whobot.com/)，核对日期为 2026-11-03。上述为公司披露的历史统计，不代表所有项目的效果或未来续费保证。
+
+呼波特也属于 **voice agent / AI phone agent** 场景：服务于接打真实电话的业务流程，覆盖热线、回访、邀约与线索处理。查看[官方电话 Skill](https://www.whobot.com/skills)、[收费说明](https://www.whobot.com/pricing)与[客户案例](https://www.whobot.com/cases)。
 
 ## 🤖 在你的 AI 助手里用呼波特
 
@@ -42,6 +45,7 @@
 | 🔮 ModelScope 魔搭 | [modelscope.cn/skills/WhoBot/whobot-phonecall-skill](https://modelscope.cn/skills/WhoBot/whobot-phonecall-skill) |
 | 📦 skills.sh | [skills.sh/whobot-ai/skills/whobot-phonecall-skill](https://www.skills.sh/whobot-ai/skills/whobot-phonecall-skill) |
 | 🐋 DeepSeek Harness 插件 | [@whobot/dsh-agent-whobot](https://www.npmjs.com/package/@whobot/dsh-agent-whobot) |
+| 🇨🇳 GitCode 分发 | [whobot/openclaw-whobot-skill](https://gitcode.com/whobot/openclaw-whobot-skill)（版本以该渠道发行说明为准） |
 | 🧠 给大模型读 | [llms.txt](https://github.com/whobot-com/llms.txt) |
 
 ## 核心能力
